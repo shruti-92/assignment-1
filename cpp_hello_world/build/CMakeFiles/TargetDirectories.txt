@@ -1,0 +1,3 @@
+/home/shruti9/assignment-1/cpp_hello_world/build/CMakeFiles/csc435-1.dir
+/home/shruti9/assignment-1/cpp_hello_world/build/CMakeFiles/edit_cache.dir
+/home/shruti9/assignment-1/cpp_hello_world/build/CMakeFiles/rebuild_cache.dir
